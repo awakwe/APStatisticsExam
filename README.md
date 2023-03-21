@@ -40,7 +40,7 @@ comment:  This document is a simple LiaScript course example.
 
 ## Topics and Concepts Tested in the Exam
 
-Table of areas sorted by number of questions
+
 
 | Content Area         | Percentage of Total Questions | Possible Number of Questions (40 Total) |
 |----------------------|-------------------------------|-----------------------------------------|
