@@ -89,6 +89,7 @@ Statistical Inference (30-40%)
 4. Exploring bivariate data
 5. Exploring categorical data
 
+> 📢 **Coming Soon!** We're currently working on providing detailed information for the remaining sections of the AP Statistics exam. Stay tuned for comprehensive explanations and examples on various statistical topics. In the meantime, if you have any specific questions or need assistance, feel free to ask!
 
 
 #### Describing Patterns and Departures from Patterns
@@ -137,6 +138,8 @@ Statistical Inference (30-40%)
 1. Planning and conducting surveys
 2. Planning and conducting experiments
 3. Generalizability of results from observational studies, surveys, and experiments
+
+> 📢 **Coming Soon!** We're currently working on providing detailed information for the remaining sections of the AP Statistics exam. Stay tuned for comprehensive explanations and examples on various statistical topics. In the meantime, if you have any specific questions or need assistance, feel free to ask!
 
 
 #### Planning and Conducting Surveys
@@ -201,6 +204,7 @@ Statistical Inference (30-40%)
 4. Combining independent random variables
 5. Sampling distributions
 
+> 📢 **Coming Soon!** We're currently working on providing detailed information for the remaining sections of the AP Statistics exam. Stay tuned for comprehensive explanations and examples on various statistical topics. In the meantime, if you have any specific questions or need assistance, feel free to ask!
 
 #### Probability Rules and Concepts
 
@@ -269,6 +273,7 @@ Statistical Inference (30-40%)
 4. Chi-square tests for categorical data
 5. Inference for regression
 
+> 📢 **Coming Soon!** We're currently working on providing detailed information for the remaining sections of the AP Statistics exam. Stay tuned for comprehensive explanations and examples on various statistical topics. In the meantime, if you have any specific questions or need assistance, feel free to ask!
 
 #### Estimation (Confidence Intervals)
 
