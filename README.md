@@ -41,7 +41,8 @@ comment:  This document is a simple LiaScript course example.
 ## Topics and Concepts Tested in the Exam
 
 
-Exploratory Analysis
+
+Exploratory Analysis (20-30%)
 
 1. Describing patterns and departures from patterns
 2. Summarizing and representing distributions of univariate data
@@ -49,13 +50,13 @@ Exploratory Analysis
 4. Exploring bivariate data
 5. Exploring categorical data
 
-Collecting Data
+Collecting Data (12-18%)
 
 1. Planning and conducting surveys
 2. Planning and conducting experiments
 3. Generalizability of results from observational studies, surveys, and experiments
 
-Probability
+Probability (20-30%)
 
 1. Probability rules and concepts
 2. Discrete and continuous random variables
@@ -63,7 +64,7 @@ Probability
 4. Combining independent random variables
 5. Sampling distributions
 
-Statistical Inference
+Statistical Inference (30-40%)
 
 1. Estimation (confidence intervals)
 2. Hypothesis testing (significance tests)
@@ -72,7 +73,7 @@ Statistical Inference
 5. Inference for regression
 
 
-### Exploratory Analysis
+### Exploratory Analysis (20-30%)
 
 1. Describing patterns and departures from patterns
 2. Summarizing and representing distributions of univariate data
@@ -123,7 +124,7 @@ Statistical Inference
 5. Contingency tables and associated measures (relative frequency, joint frequency, and conditional frequency)
 
 
-### Collecting Data
+### Collecting Data (12-18%)
 
 1. Planning and conducting surveys
 2. Planning and conducting experiments
@@ -184,7 +185,7 @@ Statistical Inference
    b. Controlling for confounders in experimental design
    c. Observational study techniques for dealing with confounders (matching, stratification, multivariate analysis)
 
-### Probability
+### Probability (20-30%)
 
 1. Probability rules and concepts
 2. Discrete and continuous random variables
@@ -252,7 +253,7 @@ Statistical Inference
    b. Dependent samples (matched pairs)
 4. Sampling distribution of the difference between two sample proportions
 
-### Statistical Inference
+### Statistical Inference (30-40%)
 
 1. Estimation (confidence intervals)
 2. Hypothesis testing (significance tests)
