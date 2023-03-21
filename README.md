@@ -97,6 +97,61 @@ comment:  This document is a simple LiaScript course example.
 2. Planning and conducting experiments
 3. Generalizability of results from observational studies, surveys, and experiments
 
+
+#### Planning and Conducting Surveys
+
+1. Sampling methods
+   a. Simple random sampling
+   b. Stratified sampling
+   c. Cluster sampling
+   d. Systematic sampling
+   e. Convenience sampling
+2. Sources of bias
+   a. Selection bias
+   b. Nonresponse bias
+   c. Response bias
+   d. Voluntary response bias
+3. Questionnaire design
+   a. Clear and unbiased questions
+   b. Appropriate response options
+   c. Proper question sequence
+   d. Avoiding leading or confusing questions
+4. Survey administration
+   a. In-person interviews
+   b. Telephone interviews
+   c. Online surveys
+   d. Mail surveys
+
+#### Planning and Conducting Experiments
+
+1. Experimental designs
+   a. Completely randomized design
+   b. Randomized block design
+   c. Matched pairs design
+   d. Factorial design
+2. Control, randomization, and replication
+   a. Control groups
+   b. Random assignment
+   c. Replication of experimental units
+3. Blinding and double-blinding
+4. Factors, levels, and treatments
+5. Response variables and extraneous variables
+
+#### Generalizability of Results from Observational Studies, Surveys, and Experiments
+
+1. Scope of inference
+   a. Causal inference in experiments
+   b. Association and correlation in observational studies
+   c. External validity
+2. Limitations and assumptions
+   a. Experimental design limitations
+   b. Survey design limitations
+   c. Observational study limitations
+3. Confounding variables
+   a. Identifying potential confounders
+   b. Controlling for confounders in experimental design
+   c. Observational study techniques for dealing with confounders (matching, stratification, multivariate analysis)
+
 ### Probability
 
 1. Probability rules and concepts
