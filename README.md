@@ -261,6 +261,59 @@ Statistical Inference
 5. Inference for regression
 
 
+#### Estimation (Confidence Intervals)
+
+1. Confidence intervals for a population mean
+   a. Known population standard deviation (z-interval)
+   b. Unknown population standard deviation (t-interval)
+2. Confidence intervals for a population proportion
+3. Confidence intervals for the difference between two population means
+   a. Independent samples
+   b. Dependent samples (matched pairs)
+4. Confidence intervals for the difference between two population proportions
+5. Choosing the appropriate sample size
+
+#### Hypothesis Testing (Significance Tests)
+
+1. One-sample t-test for a population mean
+2. One-sample z-test for a population proportion
+3. Two-sample t-test for the difference between two population means
+   a. Independent samples
+   b. Dependent samples (matched pairs)
+4. Two-sample z-test for the difference between two population proportions
+5. Type I and Type II errors, power, and effect size
+
+#### Comparing Two Populations or Treatments
+
+1. Independent samples t-test
+2. Matched pairs t-test
+3. Two-sample z-test for proportions
+4. Confidence intervals and hypothesis tests for comparing means or proportions
+5. Nonparametric tests (e.g., Wilcoxon rank-sum test, Wilcoxon signed-rank test) [optional]
+
+#### Chi-Square Tests for Categorical Data
+
+1. Chi-square test for goodness of fit
+2. Chi-square test for independence
+3. Chi-square test for homogeneity
+4. Contingency tables and expected cell counts
+5. Limitations and conditions for using chi-square tests
+
+#### Inference for Regression
+
+1. Simple linear regression
+   a. Least squares regression line
+   b. Coefficient of determination (R-squared)
+   c. Correlation coefficient (Pearson's r)
+2. Inference for the slope of the population regression line
+   a. Confidence intervals
+   b. Hypothesis testing
+3. Residual analysis and assumptions of regression
+   a. Linearity
+   b. Independence
+   c. Normality of residuals
+   d. Equal variance of residuals (homoscedasticity)
+
 ## Quizzes
 
 Throughout the module, there will be quizzes to test your knowledge on the topics we have covered. These quizzes will help you evaluate your understanding and identify areas where you may need to review.
