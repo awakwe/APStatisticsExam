@@ -83,6 +83,6 @@ During the virtual lecture, we will use active learning strategies to engage wit
 
 By the end of this module, you should have a strong foundation in AP Statistics and be well-prepared for the AP Statistics exam.
 
-[preview-lia](https://raw.githubusercontent.com/awakwe/APStatistics/main/README.md)
+[preview-lia](https://raw.githubusercontent.com/awakwe/APStatisticsExam/main/README.md)
 
-[Preview-Lia](https://liascript.github.io/course/?https://raw.githubusercontent.com/awakwe/APStatistics/main/README.md)
+[Preview-Lia](https://liascript.github.io/course/?https://raw.githubusercontent.com/awakwe/APStatisticsExam/main/README.md)
