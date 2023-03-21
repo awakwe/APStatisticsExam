@@ -40,6 +40,14 @@ comment:  This document is a simple LiaScript course example.
 
 ## Topics and Concepts Tested in the Exam
 
+Table of areas sorted by number of questions
+
+| Content Area         | Percentage of Total Questions | Possible Number of Questions (40 Total) |
+|----------------------|-------------------------------|-----------------------------------------|
+| Statistical Inference| 30-40%                        | 12-16                                   |
+| Exploratory Analysis | 20-30%                        | 8-12                                    |
+| Probability          | 20-30%                        | 8-12                                    |
+| Collecting Data      | 12-18%                        | 5-7                                     |
 
 
 Exploratory Analysis (20-30%)
