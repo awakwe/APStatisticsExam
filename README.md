@@ -100,6 +100,8 @@ Statistical Inference (30-40%)
 4. Outliers: identification and potential causes
 5. Transformations: logarithmic, square root, and other common transformations
 
+> 📢 **Coming Soon!** We're currently working on providing detailed information for the remaining sections of the AP Statistics exam. Stay tuned for comprehensive explanations and examples on various statistical topics. In the meantime, if you have any specific questions or need assistance, feel free to ask!
+
 #### Summarizing and Representing Distributions of Univariate Data
 
 1. Dot plots
@@ -107,6 +109,8 @@ Statistical Inference (30-40%)
 3. Box plots
 4. Stem-and-leaf plots
 5. Cumulative frequency plots (ogives)
+
+> 📢 **Coming Soon!** We're currently working on providing detailed information for the remaining sections of the AP Statistics exam. Stay tuned for comprehensive explanations and examples on various statistical topics. In the meantime, if you have any specific questions or need assistance, feel free to ask!
 
 #### Comparing Distributions of Univariate Data
 
@@ -116,6 +120,8 @@ Statistical Inference (30-40%)
 4. Outliers and unusual features
 5. Contextual interpretations
 
+> 📢 **Coming Soon!** We're currently working on providing detailed information for the remaining sections of the AP Statistics exam. Stay tuned for comprehensive explanations and examples on various statistical topics. In the meantime, if you have any specific questions or need assistance, feel free to ask!
+
 #### Exploring Bivariate Data
 
 1. Scatterplots
@@ -124,6 +130,8 @@ Statistical Inference (30-40%)
 4. Residuals and residual plots
 5. Coefficient of determination (R-squared)
 
+> 📢 **Coming Soon!** We're currently working on providing detailed information for the remaining sections of the AP Statistics exam. Stay tuned for comprehensive explanations and examples on various statistical topics. In the meantime, if you have any specific questions or need assistance, feel free to ask!
+
 #### Exploring Categorical Data
 
 1. Frequency tables
@@ -131,6 +139,8 @@ Statistical Inference (30-40%)
 3. Pie charts
 4. Segmented bar charts
 5. Contingency tables and associated measures (relative frequency, joint frequency, and conditional frequency)
+
+> 📢 **Coming Soon!** We're currently working on providing detailed information for the remaining sections of the AP Statistics exam. Stay tuned for comprehensive explanations and examples on various statistical topics. In the meantime, if you have any specific questions or need assistance, feel free to ask!
 
 
 ### Collecting Data (12-18%)
@@ -166,6 +176,8 @@ Statistical Inference (30-40%)
    c. Online surveys
    d. Mail surveys
 
+> 📢 **Coming Soon!** We're currently working on providing detailed information for the remaining sections of the AP Statistics exam. Stay tuned for comprehensive explanations and examples on various statistical topics. In the meantime, if you have any specific questions or need assistance, feel free to ask!
+
 #### Planning and Conducting Experiments
 
 1. Experimental designs
@@ -181,6 +193,8 @@ Statistical Inference (30-40%)
 4. Factors, levels, and treatments
 5. Response variables and extraneous variables
 
+> 📢 **Coming Soon!** We're currently working on providing detailed information for the remaining sections of the AP Statistics exam. Stay tuned for comprehensive explanations and examples on various statistical topics. In the meantime, if you have any specific questions or need assistance, feel free to ask!
+
 #### Generalizability of Results from Observational Studies, Surveys, and Experiments
 
 1. Scope of inference
@@ -195,6 +209,8 @@ Statistical Inference (30-40%)
    a. Identifying potential confounders
    b. Controlling for confounders in experimental design
    c. Observational study techniques for dealing with confounders (matching, stratification, multivariate analysis)
+
+> 📢 **Coming Soon!** We're currently working on providing detailed information for the remaining sections of the AP Statistics exam. Stay tuned for comprehensive explanations and examples on various statistical topics. In the meantime, if you have any specific questions or need assistance, feel free to ask!
 
 ### Probability (20-30%)
 
@@ -217,6 +233,8 @@ Statistical Inference (30-40%)
 4. Disjoint (mutually exclusive) events
 5. Bayes' theorem
 
+> 📢 **Coming Soon!** We're currently working on providing detailed information for the remaining sections of the AP Statistics exam. Stay tuned for comprehensive explanations and examples on various statistical topics. In the meantime, if you have any specific questions or need assistance, feel free to ask!
+
 #### Discrete and Continuous Random Variables
 
 1. Discrete random variables
@@ -227,6 +245,8 @@ Statistical Inference (30-40%)
    a. Probability density function (PDF)
    b. Cumulative distribution function (CDF)
    c. Expected value (mean) and variance
+
+> 📢 **Coming Soon!** We're currently working on providing detailed information for the remaining sections of the AP Statistics exam. Stay tuned for comprehensive explanations and examples on various statistical topics. In the meantime, if you have any specific questions or need assistance, feel free to ask!
 
 #### Probability Distributions
 
@@ -243,6 +263,8 @@ Statistical Inference (30-40%)
    d. Chi-square distribution
    e. Student's t-distribution
 
+> 📢 **Coming Soon!** We're currently working on providing detailed information for the remaining sections of the AP Statistics exam. Stay tuned for comprehensive explanations and examples on various statistical topics. In the meantime, if you have any specific questions or need assistance, feel free to ask!
+
 #### Combining Independent Random Variables
 
 1. Sum of independent random variables
@@ -251,6 +273,8 @@ Statistical Inference (30-40%)
 2. Difference of independent random variables
    a. Mean and variance of the difference
    b. Normal approximation for the difference of binomial random variables
+
+> 📢 **Coming Soon!** We're currently working on providing detailed information for the remaining sections of the AP Statistics exam. Stay tuned for comprehensive explanations and examples on various statistical topics. In the meantime, if you have any specific questions or need assistance, feel free to ask!
 
 #### Sampling Distributions
 
@@ -264,6 +288,8 @@ Statistical Inference (30-40%)
    a. Independent samples
    b. Dependent samples (matched pairs)
 4. Sampling distribution of the difference between two sample proportions
+
+> 📢 **Coming Soon!** We're currently working on providing detailed information for the remaining sections of the AP Statistics exam. Stay tuned for comprehensive explanations and examples on various statistical topics. In the meantime, if you have any specific questions or need assistance, feel free to ask!
 
 ### Statistical Inference (30-40%)
 
@@ -287,6 +313,8 @@ Statistical Inference (30-40%)
 4. Confidence intervals for the difference between two population proportions
 5. Choosing the appropriate sample size
 
+> 📢 **Coming Soon!** We're currently working on providing detailed information for the remaining sections of the AP Statistics exam. Stay tuned for comprehensive explanations and examples on various statistical topics. In the meantime, if you have any specific questions or need assistance, feel free to ask!
+
 #### Hypothesis Testing (Significance Tests)
 
 1. One-sample t-test for a population mean
@@ -297,6 +325,8 @@ Statistical Inference (30-40%)
 4. Two-sample z-test for the difference between two population proportions
 5. Type I and Type II errors, power, and effect size
 
+> 📢 **Coming Soon!** We're currently working on providing detailed information for the remaining sections of the AP Statistics exam. Stay tuned for comprehensive explanations and examples on various statistical topics. In the meantime, if you have any specific questions or need assistance, feel free to ask!
+
 #### Comparing Two Populations or Treatments
 
 1. Independent samples t-test
@@ -305,6 +335,8 @@ Statistical Inference (30-40%)
 4. Confidence intervals and hypothesis tests for comparing means or proportions
 5. Nonparametric tests (e.g., Wilcoxon rank-sum test, Wilcoxon signed-rank test) [optional]
 
+> 📢 **Coming Soon!** We're currently working on providing detailed information for the remaining sections of the AP Statistics exam. Stay tuned for comprehensive explanations and examples on various statistical topics. In the meantime, if you have any specific questions or need assistance, feel free to ask!
+
 #### Chi-Square Tests for Categorical Data
 
 1. Chi-square test for goodness of fit
@@ -312,6 +344,8 @@ Statistical Inference (30-40%)
 3. Chi-square test for homogeneity
 4. Contingency tables and expected cell counts
 5. Limitations and conditions for using chi-square tests
+
+> 📢 **Coming Soon!** We're currently working on providing detailed information for the remaining sections of the AP Statistics exam. Stay tuned for comprehensive explanations and examples on various statistical topics. In the meantime, if you have any specific questions or need assistance, feel free to ask!
 
 #### Inference for Regression
 
@@ -327,6 +361,8 @@ Statistical Inference (30-40%)
    b. Independence
    c. Normality of residuals
    d. Equal variance of residuals (homoscedasticity)
+
+> 📢 **Coming Soon!** We're currently working on providing detailed information for the remaining sections of the AP Statistics exam. Stay tuned for comprehensive explanations and examples on various statistical topics. In the meantime, if you have any specific questions or need assistance, feel free to ask!
 
 ## Quizzes
 
