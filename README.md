@@ -48,6 +48,49 @@ comment:  This document is a simple LiaScript course example.
 4. Exploring bivariate data
 5. Exploring categorical data
 
+
+
+#### Describing Patterns and Departures from Patterns
+
+1. Center: mean, median, and mode
+2. Spread: range, interquartile range (IQR), variance, and standard deviation
+3. Shape: symmetric, skewed, unimodal, bimodal, and uniform
+4. Outliers: identification and potential causes
+5. Transformations: logarithmic, square root, and other common transformations
+
+#### Summarizing and Representing Distributions of Univariate Data
+
+1. Dot plots
+2. Histograms
+3. Box plots
+4. Stem-and-leaf plots
+5. Cumulative frequency plots (ogives)
+
+#### Comparing Distributions of Univariate Data
+
+1. Measures of central tendency
+2. Measures of dispersion
+3. Shape comparison
+4. Outliers and unusual features
+5. Contextual interpretations
+
+#### Exploring Bivariate Data
+
+1. Scatterplots
+2. Correlation coefficient (Pearson's r)
+3. Least-squares regression line
+4. Residuals and residual plots
+5. Coefficient of determination (R-squared)
+
+#### Exploring Categorical Data
+
+1. Frequency tables
+2. Bar charts
+3. Pie charts
+4. Segmented bar charts
+5. Contingency tables and associated measures (relative frequency, joint frequency, and conditional frequency)
+
+
 ### Collecting Data
 
 1. Planning and conducting surveys
