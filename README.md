@@ -15,7 +15,7 @@ comment:  This document is a simple LiaScript course example.
 
  A Detailed Outline of the AP Statistics Exam
 
-## Multiple-Choice Section (50% of the total score)
+ Multiple-Choice Section (50% of the total score)
 
 1. Number of questions: 40
 2. Time allotted: 90 minutes
@@ -25,7 +25,7 @@ comment:  This document is a simple LiaScript course example.
    c. Probability (20-30%)
    d. Statistical inference (30-40%)
 
-## Free-Response Section (50% of the total score)
+ Free-Response Section (50% of the total score)
 
 1. Number of questions: 6
 2. Time allotted: 90 minutes
