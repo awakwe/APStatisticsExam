@@ -40,6 +40,38 @@ comment:  This document is a simple LiaScript course example.
 
 ## Topics and Concepts Tested in the Exam
 
+
+Exploratory Analysis
+
+1. Describing patterns and departures from patterns
+2. Summarizing and representing distributions of univariate data
+3. Comparing distributions of univariate data
+4. Exploring bivariate data
+5. Exploring categorical data
+
+Collecting Data
+
+1. Planning and conducting surveys
+2. Planning and conducting experiments
+3. Generalizability of results from observational studies, surveys, and experiments
+
+Probability
+
+1. Probability rules and concepts
+2. Discrete and continuous random variables
+3. Probability distributions, including binomial and normal distributions
+4. Combining independent random variables
+5. Sampling distributions
+
+Statistical Inference
+
+1. Estimation (confidence intervals)
+2. Hypothesis testing (significance tests)
+3. Comparing two populations or treatments
+4. Chi-square tests for categorical data
+5. Inference for regression
+
+
 ### Exploratory Analysis
 
 1. Describing patterns and departures from patterns
