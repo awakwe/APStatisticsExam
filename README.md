@@ -160,6 +160,66 @@ comment:  This document is a simple LiaScript course example.
 4. Combining independent random variables
 5. Sampling distributions
 
+
+#### Probability Rules and Concepts
+
+1. Basic probability rules
+   a. Complement rule
+   b. Addition rule
+   c. Multiplication rule
+2. Conditional probability
+3. Independent and dependent events
+4. Disjoint (mutually exclusive) events
+5. Bayes' theorem
+
+#### Discrete and Continuous Random Variables
+
+1. Discrete random variables
+   a. Probability mass function (PMF)
+   b. Cumulative distribution function (CDF)
+   c. Expected value (mean) and variance
+2. Continuous random variables
+   a. Probability density function (PDF)
+   b. Cumulative distribution function (CDF)
+   c. Expected value (mean) and variance
+
+#### Probability Distributions
+
+1. Discrete probability distributions
+   a. Uniform distribution
+   b. Bernoulli distribution
+   c. Binomial distribution
+   d. Geometric distribution
+   e. Poisson distribution
+2. Continuous probability distributions
+   a. Uniform distribution
+   b. Normal distribution
+   c. Exponential distribution
+   d. Chi-square distribution
+   e. Student's t-distribution
+
+#### Combining Independent Random Variables
+
+1. Sum of independent random variables
+   a. Mean and variance of the sum
+   b. Normal approximation for the sum of binomial random variables
+2. Difference of independent random variables
+   a. Mean and variance of the difference
+   b. Normal approximation for the difference of binomial random variables
+
+#### Sampling Distributions
+
+1. Sampling distribution of the sample mean
+   a. Central Limit Theorem (CLT)
+   b. Standard error of the sample mean
+2. Sampling distribution of the sample proportion
+   a. Central Limit Theorem (CLT) for proportions
+   b. Standard error of the sample proportion
+3. Sampling distribution of the difference between two sample means
+   a. Independent samples
+   b. Dependent samples (matched pairs)
+4. Sampling distribution of the difference between two sample proportions
+
 ### Statistical Inference
 
 1. Estimation (confidence intervals)
