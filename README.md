@@ -345,7 +345,56 @@ Statistical Inference (30-40%)
 4. Contingency tables and expected cell counts
 5. Limitations and conditions for using chi-square tests
 
-> 📢 **Coming Soon!** We're currently working on providing detailed information for the remaining sections of the AP Statistics exam. Stay tuned for comprehensive explanations and examples on various statistical topics. In the meantime, if you have any specific questions or need assistance, feel free to ask!
+Chi-Square Goodness of Fit Test for Marital Status Distribution
+===============================================================
+
+We want to determine if the marital status distribution of the U.S. males aged 25 to 29 years old is evenly distributed.
+
+a. State the null and alternative hypotheses
+--------------------------------------------
+
+Let's state the null and alternative hypotheses for a chi-square goodness of fit test:
+
+H0 (Null Hypothesis): The marital status distribution of the U.S. males aged 25 to 29 years old is evenly distributed.
+
+HA (Alternative Hypothesis): The marital status distribution of the U.S. males aged 25 to 29 years old is not evenly distributed.
+
+b. Calculate the expected counts
+--------------------------------
+
+Given that H0 assumes an even distribution, the expected counts for each marital status are:
+
+Never Married: 125 (500 \* 0.25) Married: 125 (500 \* 0.25) Widowed: 125 (500 \* 0.25) Divorced: 125 (500 \* 0.25)
+
+c. Find the Statistic X2 and degrees of freedom
+-----------------------------------------------
+
+To calculate the chi-square statistic (X2), we need to find the difference between observed and expected counts, square it, and then divide it by the expected counts. The formula for X2 is:
+
+X2 = Σ ( (O - E)^2 / E )
+
+O: Observed counts E: Expected counts
+
+X2 = ( (260 - 125)^2 / 125 ) + ( (220 - 125)^2 / 125 ) + ( (0 - 125)^2 / 125 ) + ( (20 - 125)^2 / 125 ) X2 ≈ 98.48
+
+The degrees of freedom (df) for this test are:
+
+df = (Number of categories - 1) df = (4 - 1) = 3
+
+d. Find the P-value and state your conclusions
+----------------------------------------------
+
+To find the P-value using a TI-83 calculator, follow these steps:
+
+1. Press the 2ND key and then press the VARS key.
+2. Select option 7: χ²cdf(.
+3. Enter the values: 98.48, ∞, 3) and press ENTER.
+
+The calculator will display the P-value, which is close to 0.
+
+Since the P-value is close to 0 and much smaller than the significance level (α = 0.05), we reject the null hypothesis (H0).
+
+**Conclusion**: There is evidence to suggest that the marital status distribution of the U.S. males aged 25 to 29 years old is not evenly distributed.
 
 #### Inference for Regression
 
