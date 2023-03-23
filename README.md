@@ -545,6 +545,68 @@ p-value ≈ 0.033 (rounded to 3 decimal places)
 
 
 
+ Hypothesis Testing for the Relationship Between Students' Smoking Habits and Their Parents' Smoking Habits
+
+ Background
+
+A survey was conducted among students in 8 Arizona high schools to examine the relationship between students' smoking habits and their parents' smoking habits. The data collected are shown below:
+
+|                     | Student smokes | Student does not smoke |
+|---------------------|----------------|------------------------|
+| Both parents smoke  | 400            | 1380                   |
+| One parent smokes   | 416            | 1823                   |
+| Neither parent smokes | 188          | 1168                   |
+
+Hypothesis
+
+H0 (null hypothesis): There is no relationship between students' smoking habits and their parents' smoking habits, i.e., the variables are independent.
+
+H1 (alternative hypothesis): There is a relationship between students' smoking habits and their parents' smoking habits, i.e., the variables are dependent.
+
+ Steps to Test Hypothesis Using TI-83 Calculator
+
+1. Calculate row and column totals, and fill them in a table:
+
+|                     | Student smokes | Student does not smoke | Total |
+|---------------------|----------------|------------------------|-------|
+| Both parents smoke  | 400            | 1380                   | 1780  |
+| One parent smokes   | 416            | 1823                   | 2239  |
+| Neither parent smokes | 188          | 1168                   | 1356  |
+| Total               | 1004           | 4371                   | 5375  |
+
+2. Calculate the expected values for each cell using the formula: `(row total * column total) / grand total`
+
+Expected values table:
+
+|                     | Student smokes | Student does not smoke |
+|---------------------|----------------|------------------------|
+| Both parents smoke  | 332.24         | 1447.76                |
+| One parent smokes   | 419.23         | 1819.77                |
+| Neither parent smokes | 252.53       | 1103.47                |
+
+3. Calculate the chi-square test statistic (χ2) using the formula: `χ2 = Σ((observed - expected)^2 / expected)`
+
+χ2 = (400-332.24)²/332.24 + (416-419.23)²/419.23 + (188-252.53)²/252.53 + (1380-1447.76)²/1447.76 + (1823-1819.77)²/1819.77 + (1168-1103.47)²/1103.47
+
+χ2 = 13.96 + 0.024 + 16.59 + 3.25 + 0.006 + 3.77
+
+χ2 = 37.57 (rounded to 2 decimal places)
+
+4. Find the p-value corresponding to the chi-square test statistic using the TI-83 calculator:
+
+a. Press [2nd] > [VARS] to access the DISTR menu.
+b. Scroll down to select the "χ2-cdf(" option.
+c. Enter the test statistic, degrees of freedom (df = (rows - 1) * (columns - 1) = 2 * 1 = 2), and a large value for the upper bound (e.g., 1E99): `χ2-cdf(37.57, 2, 1E99)`.
+d. Press [ENTER] to calculate the p-value.
+
+p-value ≈ 0 (rounded to 3 decimal places)
+
+5. Interpret the results:
+
+- Compare the p-value to your chosen significance level (α, usually 0.05).
+- the p-value is less than α (0 < 0.05), reject the null hypothesis (H0) and conclude that there is a relationship between students' smoking habits and their parents' smoking habits.
+
+
 #### Inference for Regression
 
 1. Simple linear regression
