@@ -390,7 +390,7 @@ For example:
 
 So, the area to the right of χ² = 1.41 under the chi-square curve with 2 degrees of freedom is approximately 0.494.
 
-
+#### B
 b. Finding the Area to the Right of χ² = 19.62 under the Chi-Square Curve with 9 Degrees of Freedom using a TI-83 Calculator
 
 In this guide, we'll demonstrate how to find the area to the right of χ² = 19.62 under the chi-square curve with 9 degrees of freedom using a TI-83 calculator.
@@ -435,7 +435,7 @@ For example:
 
 So, the area to the right of χ² = 19.62 under the chi-square curve with 9 degrees of freedom is approximately 0.01973.
 
-
+#### Marital status
 Chi-Square Goodness of Fit Test for Marital Status Distribution
 ===============================================================
 
@@ -488,7 +488,7 @@ Since the P-value is close to 0 and much smaller than the significance level (α
 **Conclusion**: There is evidence to suggest that the marital status distribution of the U.S. males aged 25 to 29 years old is not evenly distributed.
 
 
-
+#### Extra Activ % Grade
 Hypothesis Testing for the Relationship Between Extracurricular Activities and Course Grades
 
  Background
@@ -544,7 +544,7 @@ p-value ≈ 0.033 (rounded to 3 decimal places)
 - If the p-value is less than α (0.033 < 0.05), reject the null hypothesis (H0) and conclude that there is a relationship between time spent in extracurricular activities and course grades.
 
 
-
+#### Smoking
  Hypothesis Testing for the Relationship Between Students' Smoking Habits and Their Parents' Smoking Habits
 
  Background
