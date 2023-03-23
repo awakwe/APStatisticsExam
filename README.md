@@ -345,6 +345,96 @@ Statistical Inference (30-40%)
 4. Contingency tables and expected cell counts
 5. Limitations and conditions for using chi-square tests
 
+a. Finding the Area to the Right of χ² = 1.41 under the Chi-Square Curve with 2 Degrees of Freedom using a TI-83 Calculator
+
+In this guide, we'll demonstrate how to find the area to the right of χ² = 1.41 under the chi-square curve with 2 degrees of freedom using a TI-83 calculator.
+
+ Step 1: Turn on the TI-83 calculator
+
+Turn on your TI-83 calculator by pressing the `ON` button located at the bottom left corner of the device.
+
+ Step 2: Access the chi-square distribution function
+
+To access the chi-square distribution function on the TI-83 calculator, follow these steps:
+
+1. Press the `2ND` button (located in the top left corner of the calculator).
+2. Press the `VARS` button (located above the `7` key) to access the distribution menu.
+3. Use the down arrow key to navigate to the `χ²cdf(` function (usually option 7).
+4. Press the `ENTER` button to select the function.
+
+ Step 3: Input the parameters
+
+After selecting the `χ²cdf(` function, you will see the following on the screen:
+
+`χ²cdf(`
+
+Now, input the parameters:
+
+1. Enter the lower bound: Since we want to find the area to the right of χ² = 1.41, our lower bound will be 1.41. Input `1.41,` after the opening parenthesis.
+2. Enter the upper bound: As we want to find the area to the right, we should input a large value as the upper bound. A common practice is to use 1E99 (1 * 10^99) as the upper bound. Input `1E99,` after the comma.
+3. Enter the degrees of freedom: As given, there are 2 degrees of freedom. Input `2` after the last comma.
+4. Close the parenthesis by inputting `)`.
+
+Your screen should now display:
+
+`χ²cdf(1.41,1E99,2)`
+
+ Step 4: Calculate the result
+
+Press the `ENTER` button to calculate the result. The calculator will display the area to the right of χ² = 1.41 under the chi-square curve with 2 degrees of freedom.
+
+For example:
+
+`0.49403`
+
+So, the area to the right of χ² = 1.41 under the chi-square curve with 2 degrees of freedom is approximately 0.494.
+
+
+b. Finding the Area to the Right of χ² = 19.62 under the Chi-Square Curve with 9 Degrees of Freedom using a TI-83 Calculator
+
+In this guide, we'll demonstrate how to find the area to the right of χ² = 19.62 under the chi-square curve with 9 degrees of freedom using a TI-83 calculator.
+
+ Step 1: Turn on the TI-83 calculator
+
+Turn on your TI-83 calculator by pressing the `ON` button located at the bottom left corner of the device.
+
+ Step 2: Access the chi-square distribution function
+
+To access the chi-square distribution function on the TI-83 calculator, follow these steps:
+
+1. Press the `2ND` button (located in the top left corner of the calculator).
+2. Press the `VARS` button (located above the `7` key) to access the distribution menu.
+3. Use the down arrow key to navigate to the `χ²cdf(` function (usually option 7).
+4. Press the `ENTER` button to select the function.
+
+ Step 3: Input the parameters
+
+After selecting the `χ²cdf(` function, you will see the following on the screen:
+
+`χ²cdf(`
+
+Now, input the parameters:
+
+1. Enter the lower bound: Since we want to find the area to the right of χ² = 19.62, our lower bound will be 19.62. Input `19.62,` after the opening parenthesis.
+2. Enter the upper bound: As we want to find the area to the right, we should input a large value as the upper bound. A common practice is to use 1E99 (1 * 10^99) as the upper bound. Input `1E99,` after the comma.
+3. Enter the degrees of freedom: As given, there are 9 degrees of freedom. Input `9` after the last comma.
+4. Close the parenthesis by inputting `)`.
+
+Your screen should now display:
+
+`χ²cdf(19.62,1E99,9)`
+
+ Step 4: Calculate the result
+
+Press the `ENTER` button to calculate the result. The calculator will display the area to the right of χ² = 19.62 under the chi-square curve with 9 degrees of freedom.
+
+For example:
+
+`0.01973`
+
+So, the area to the right of χ² = 19.62 under the chi-square curve with 9 degrees of freedom is approximately 0.01973.
+
+
 Chi-Square Goodness of Fit Test for Marital Status Distribution
 ===============================================================
 
