@@ -345,6 +345,7 @@ Statistical Inference (30-40%)
 4. Contingency tables and expected cell counts
 5. Limitations and conditions for using chi-square tests
 
+#### Solutions
 a. Finding the Area to the Right of χ² = 1.41 under the Chi-Square Curve with 2 Degrees of Freedom using a TI-83 Calculator
 
 In this guide, we'll demonstrate how to find the area to the right of χ² = 1.41 under the chi-square curve with 2 degrees of freedom using a TI-83 calculator.
