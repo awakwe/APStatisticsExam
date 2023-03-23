@@ -486,6 +486,64 @@ Since the P-value is close to 0 and much smaller than the significance level (α
 
 **Conclusion**: There is evidence to suggest that the marital status distribution of the U.S. males aged 25 to 29 years old is not evenly distributed.
 
+
+
+Hypothesis Testing for the Relationship Between Extracurricular Activities and Course Grades
+
+ Background
+
+North Carolina State University conducted a study to examine the relationship between time spent in extracurricular activities and whether a student earned a C or better in a required chemical engineering course. The data for 119 students who answered a question about extracurricular activities are shown below:
+
+|               | <2 hours | 2 to 12 hours | >12 hours |
+|---------------|----------|---------------|-----------|
+| C or better   | 11       | 68            | 3         |
+| D or F        | 9        | 23            | 5         |
+
+ Hypothesis
+
+H0 (null hypothesis): There is no relationship between time spent in extracurricular activities and course grades, i.e., the variables are independent.
+
+H1 (alternative hypothesis): There is a relationship between time spent in extracurricular activities and course grades, i.e., the variables are dependent.
+
+ Steps to Test Hypothesis Using TI-83 Calculator
+
+1. Calculate row and column totals, and fill them in a table:
+
+|               | <2 hours | 2 to 12 hours | >12 hours | Total |
+|---------------|----------|---------------|-----------|-------|
+| C or better   | 11       | 68            | 3         | 82    |
+| D or F        | 9        | 23            | 5         | 37    |
+| Total         | 20       | 91            | 8         | 119   |
+
+2. Calculate the expected values for each cell using the formula: `(row total * column total) / grand total`
+
+Expected values table:
+
+|               | <2 hours | 2 to 12 hours | >12 hours |
+|---------------|----------|---------------|-----------|
+| C or better   | 13.79    | 63.04         | 5.17      |
+| D or F        | 6.21     | 27.96         | 2.83      |
+
+3. Calculate the chi-square test statistic (χ2) using the formula: `χ2 = Σ((observed - expected)^2 / expected)`
+
+χ2 = 6.815 (rounded to 3 decimal places)
+
+4. Find the p-value corresponding to the chi-square test statistic using the TI-83 calculator:
+
+a. Press [2nd] > [VARS] to access the DISTR menu.
+b. Scroll down to select the "χ2-cdf(" option.
+c. Enter the test statistic, degrees of freedom (df = (rows - 1) * (columns - 1) = 1 * 2 = 2), and a large value for the upper bound (e.g., 1E99): `χ2-cdf(6.815, 2, 1E99)`.
+d. Press [ENTER] to calculate the p-value.
+
+p-value ≈ 0.033 (rounded to 3 decimal places)
+
+5. Interpret the results:
+
+- Compare the p-value to your chosen significance level (α, usually 0.05).
+- If the p-value is less than α (0.033 < 0.05), reject the null hypothesis (H0) and conclude that there is a relationship between time spent in extracurricular activities and course grades.
+
+
+
 #### Inference for Regression
 
 1. Simple linear regression
