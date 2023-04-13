@@ -624,6 +624,163 @@ p-value ≈ 0 (rounded to 3 decimal places)
 
 > 📢 **Coming Soon!** We're currently working on providing detailed information for the remaining sections of the AP Statistics exam. Stay tuned for comprehensive explanations and examples on various statistical topics. In the meantime, if you have any specific questions or need assistance, feel free to ask!
 
+## Study Guide: Linear Regression Analysis
+
+
+In this study guide, we will cover how to interpret the output of a linear regression model and answer the following questions based on the given dataset:
+
+a) What is the equation of the LSRL? Identify the variables (x & y-hat).
+
+b) What is the correlation coefficient (round to 3 decimal places)?
+
+c) Construct and interpret a 95% interval. Include degrees of freedom. (Include assumptions and show work)
+
+Data
+----
+
+bash
+
+```bash
+coef    std. error    t­stat    p­value
+Constant    -3.6596    4.4590    *    *
+Variable     1.1969    0.5410    *    *
+s = 0.4971
+R­squared = 98.8%
+```
+
+a) LSRL Equation and Variables
+------------------------------
+
+The LSRL (Least Squares Regression Line) equation can be written as:
+
+`y-hat = b0 + b1 * x`
+
+where `y-hat` is the predicted value of y, `b0` is the constant (intercept), and `b1` is the coefficient of the variable x (slope).
+
+Based on the provided data:
+
+* Constant (b0) = -3.6596
+* Variable (b1) = 1.1969
+
+So the LSRL equation is:
+
+`y-hat = -3.6596 + 1.1969 * x`
+
+In this case, x represents the length of the femur (in inches) and y-hat represents the predicted length of the humerus (in inches).
+
+b) Correlation Coefficient
+--------------------------
+
+The correlation coefficient (r) can be calculated using the R-squared value provided in the output:
+
+`R-squared = (correlation coefficient)^2`
+
+Solving for the correlation coefficient:
+
+`r = sqrt(R-squared)`
+
+R-squared = 98.8% = 0.988
+
+`r = sqrt(0.988) ≈ 0.994`
+
+The correlation coefficient, rounded to 3 decimal places, is **0.994**.
+
+c) 95% Confidence Interval
+--------------------------
+
+To construct a 95% confidence interval for the slope (b1), we first need to find the critical t-value. We will use the t-distribution table and the following information:
+
+* Degrees of freedom (df) = n - 2, where n is the number of observations (5 animals)
+* α = 0.05 for a 95% confidence interval
+
+Degrees of freedom (df) = 5 - 2 = 3
+
+Using a t-distribution table, the critical t-value for α = 0.05 and df = 3 is approximately 3.182.
+
+Now, we can calculate the confidence interval using the formula:
+
+`CI = b1 ± t-critical * std. error`
+
+CI = 1.1969 ± 3.182 \* 0.5410
+
+Lower bound = 1.1969 - 3.182 \* 0.5410 ≈ -0.5279 Upper bound = 1.1969 + 3.182 \* 0.5410 ≈ 2.9217
+
+The 95% confidence interval for the slope is **(-0.5279, 2.9217)**. This means that we are 95% confident that the true slope of the relationship between the length of the femur and the length of the humerus lies within this interval.
+
+## Study Guide: Hypothesis Testing for Linear Regression
+
+
+In this study guide, we will perform a hypothesis test to determine if there is a relationship between the length of the humerus and the length of the femur in animals using a 5% significance level.
+
+Hypothesis Testing Steps
+------------------------
+
+1. State the null and alternative hypotheses.
+2. Verify assumptions.
+3. Calculate the test statistic.
+4. Determine the critical value.
+5. Compare the test statistic to the critical value and make a decision.
+6. Draw a conclusion.
+
+d) Hypothesis Test
+------------------
+
+### 1\. State the null and alternative hypotheses
+
+The null hypothesis (H0) states that there is no relationship between the length of the humerus and the length of the femur (the slope is equal to zero).
+
+`H0: b1 = 0`
+
+The alternative hypothesis (Ha) states that there is a relationship between the length of the humerus and the length of the femur (the slope is not equal to zero).
+
+`Ha: b1 ≠ 0`
+
+### 2\. Verify assumptions
+
+Before performing the hypothesis test, we need to verify the following assumptions:
+
+1. Linearity: The relationship between the variables is linear.
+2. Independence: The observations are independent.
+3. Normality: The residuals are normally distributed.
+4. Homoscedasticity: The residuals have constant variance.
+
+For the purpose of this guide, we will assume these assumptions have been met.
+
+### 3\. Calculate the test statistic
+
+The test statistic is the t-statistic, which can be calculated as follows:
+
+`t-stat = (b1 - 0) / std. error`
+
+Using the provided data:
+
+* b1 (slope) = 1.1969
+* std. error = 0.5410
+
+`t-stat = (1.1969 - 0) / 0.5410 ≈ 2.2128`
+
+### 4\. Determine the critical value
+
+We will use the t-distribution table to determine the critical value. The following information is required:
+
+* Degrees of freedom (df) = n - 2, where n is the number of observations (5 animals)
+* α = 0.05 for a 5% significance level
+
+Degrees of freedom (df) = 5 - 2 = 3
+
+Using a t-distribution table, the critical t-value for α = 0.05 (two-tailed test) and df = 3 is approximately 3.182.
+
+### 5\. Compare the test statistic to the critical value
+
+Now, we compare the t-statistic (2.2128) to the critical value (±3.182).
+
+Since the t-statistic falls within the range of -3.182 to 3.182, we fail to reject the null hypothesis at a 5% significance level.
+
+### 6\. Draw a conclusion
+
+Based on the hypothesis test, we cannot conclude that there is a significant relationship between the length of the humerus and the length of the femur at a 5% significance level. However, it is important to note that the sample size is small, which may impact the results. Additional data may be needed to provide more conclusive evidence.
+
+
 ## Quizzes
 
 Throughout the module, there will be quizzes to test your knowledge on the topics we have covered. These quizzes will help you evaluate your understanding and identify areas where you may need to review.
